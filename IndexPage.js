@@ -1,5 +1,5 @@
 import React from "react";
-import PokemonList from "../components/PokemonList";
+import PokemonList from "./src/components/PokemonList";
 import styled from "@emotion/styled/macro";
 
 const Base = styled.div`
