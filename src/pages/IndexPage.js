@@ -1,6 +1,6 @@
 import React from "react";
-import PokemonList from "./src/components/PokemonList";
 import styled from "@emotion/styled/macro";
+import PokemonList from "../components/PokemonList";
 
 const Base = styled.div`
 padding:12px 18px;
